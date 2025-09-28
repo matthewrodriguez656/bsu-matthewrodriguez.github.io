@@ -4,5 +4,5 @@
 * Listen to Music
 * Hang out with Friends
 * Snowboard
-  * (steez) 
+  * *(steez)*
 
