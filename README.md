@@ -15,4 +15,4 @@
 - [x] *Made it to the end of the page*
 - [ ] *Finished homework* 😮‍💨
 
-[^1]: Have a good day.
+Have a good day. [^1]
