@@ -13,6 +13,6 @@
 ![Picture of Playboi Carti crowdsurfing at a concert](playboi-carti-at-red-bull-sound-select-presents--chicago.JPG.avif)
 
 - [x] *Made it to the end of the page*
-- [ ] *Finished homework* :moai:
+- [ ] *Finished homework* 😮‍💨
 
 [^1]: Have a good day.
