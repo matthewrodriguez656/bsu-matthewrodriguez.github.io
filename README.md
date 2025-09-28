@@ -11,4 +11,8 @@
 
 ## My Favorite Artist [(Playboi Carti)](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD?si=c80E5SO1SAef_FJhtkNeVg)
 ![Picture of Playboi Carti crowdsurfing at a concert](playboi-carti-at-red-bull-sound-select-presents--chicago.JPG.avif)
+
+- [x] Made it to the end of the page
+- [ ] Finished homework
+
 [^1]: Have a good day.
