@@ -15,4 +15,5 @@
 - [x] *Made it to the end of the page*
 - [ ] *Finished homework* 😮‍💨
 
-Have a good day[^1].
+> [!IMPORTANT]
+> Have a good day.
