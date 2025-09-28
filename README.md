@@ -1,3 +1,8 @@
-# **My Own GitHub Page**
-## *CS155 - bsu-matthewrodriguez.github.io*
->My name is Matt and I am a Computer Science Major at Boise State University
+# **What I like to Do**
+>I like to...
+* Work Out
+* Listen to Music
+* Hang out with Friends
+* Snowboard
+  * (steez) 
+
